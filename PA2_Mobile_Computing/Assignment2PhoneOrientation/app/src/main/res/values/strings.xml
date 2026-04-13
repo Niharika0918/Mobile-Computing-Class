@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment2PhoneOrientation</string>
+    <string name="app_title">Phone Orientation Estimator</string>
+
+    <string name="accelerometer_label">Accelerometer Data</string>
+    <string name="gyroscope_label">Gyroscope Data</string>
+    <string name="orientation_label">Orientation Output</string>
+
+    <string name="default_accel_x">X: 0.0</string>
+    <string name="default_accel_y">Y: 0.0</string>
+    <string name="default_accel_z">Z: 0.0</string>
+
+    <string name="default_gyro_x">X: 0.0</string>
+    <string name="default_gyro_y">Y: 0.0</string>
+    <string name="default_gyro_z">Z: 0.0</string>
+
+    <string name="default_pitch">Pitch: 0.0</string>
+    <string name="default_roll">Roll: 0.0</string>
+    <string name="default_orientation">Orientation: Unknown</string>
+
+    <string name="missing_accelerometer">Accelerometer not available</string>
+    <string name="missing_gyroscope">Gyroscope not available</string>
+</resources>
